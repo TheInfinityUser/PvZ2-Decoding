@@ -63,7 +63,7 @@ Viewing a PAM requires 3 main components -
       - index - <i>Integer. Index of the element to be added.</i>
       - name - <i>String. Name of the element to be added.</i>
       - resource - <i>Integer. Index of the resource to be used.</i>
-      - sprite - <i>Boolean. If true, the resource index will reference the sprites indexed in the order in which they are present in sprite[]. If false, the resource index will reference the images indexed in the order in which they are present in image[].
+      - sprite - <i>Boolean. If true, the resource index will reference the sprites indexed in the order in which they are present in sprite[]. If false, the resource index will reference the images indexed in the order in which they are present in image[].</i>
       - additive - <i>Boolean. Purpose not known/not that useful.</i>
       - preload_frame - <i>Integer. Purpose not known/not that useful.</i>
       - time_scale - <i>Float. Purpose not known/not that useful.</i>
